@@ -2,6 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=nabiha02&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=nabiha02&label=PROFILE+VISITS)
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)
  
