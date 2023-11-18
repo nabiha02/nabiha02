@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- [![HitCount](https://hits.dwyl.com/nabiha02/nabiha02.svg?style=flat-square)](http://hits.dwyl.com/nabiha02/nabiha02)
+
+![](https://komarev.com/ghpvc/?username=nabiha02&color=blueviolet)
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)
  
