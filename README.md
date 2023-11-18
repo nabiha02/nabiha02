@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=nabiha02&label=PROFILE+VISITS&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=nabiha02&label=Profile+Visits&color=ff69b4&style=plastic)
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)
  
