@@ -12,7 +12,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="60">
 📫 How to reach me;
 
-<a href="https://www.facebook.com/profile.php?id=100089780863300" rel="nofollow"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="max-width: 100%;">
+<a href="https://www.facebook.com/profile.php?id=100089780863300" rel="nofollow"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="facebook logo" style="max-width: 100%;">
   </a>
 
 
