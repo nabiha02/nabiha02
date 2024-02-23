@@ -3,7 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=nabiha02&label=Profile+Visits&color=ff69b4&style=plastic)
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)
- 
+
+- 🔭 Have knowledge on ... ![C Programming Logo](https://pin.it/6YZTGUoW9)
+- 🌱 Currently learning ... ![JAVA Programming Logo](https://www.iconfinder.com/icons/4519129/java_icon)
+- 📫 How to reach me: ... 
 <!--
 **nabiha02/nabiha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
