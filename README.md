@@ -3,8 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nabiha02&label=Profile+Visits&color=ff69b4&style=plastic)
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)-->
- ![Nabiha's Stats](https://github-readme-stats.vercel.app/api?username=nabiha02&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabiha02&theme=tokyonight&hide_border=true)
+ ![Nabiha's Stat](https://github-readme-streak-stats.herokuapp.com/?user=nabiha02&theme=tokyonight&hide_border=true)
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha02&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 🔭 Have knowledge on;
