@@ -4,8 +4,8 @@
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)
 
-- 🔭 Have knowledge on ... ![C Programming Logo](https://pin.it/6YZTGUoW9)
-- 🌱 Currently learning ... ![JAVA Programming Logo](https://www.iconfinder.com/icons/4519129/java_icon)
+- 🔭 Have knowledge on ... <img src="https://pin.it/2F7jNNzWD">
+- 🌱 Currently learning ... 
 - 📫 How to reach me: ... 
 <!--
 **nabiha02/nabiha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
