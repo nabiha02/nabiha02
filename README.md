@@ -4,7 +4,7 @@
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)
 
-- 🔭 Have knowledge on ... <img src="https://i.pinimg.com/564x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg">
+- 🔭 Have knowledge on ... <img src="https://i.pinimg.com/564x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" height="10">
 - 🌱 Currently learning ... 
 - 📫 How to reach me: ... 
 <!--
