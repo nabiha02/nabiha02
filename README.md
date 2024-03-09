@@ -10,12 +10,7 @@
  
  <img width="400" src="https://camo.githubusercontent.com/7f6f2c102a90f9d8c29f44f40b843dee3964cf5dee5c3cfa5ce9dafb895bf172/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e61626968613032267468656d653d746f6b796f6e696768742673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha02&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="max-width: 100%;">
  
-<a href="https://github.com/nabiha02/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=nabiha02" />
-</a>
-<a href="https://github.com/nabiha02/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabiha02&layout=compact&langs_count=8&card_width=100" />
-</a>
+
 🔭 Have knowledge on;
 
 <img src="https://camo.githubusercontent.com/8639a64068ea0e712beec603e79eb19daf6b3c26cb47c782b0debf2843a8bfa5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" height="40" alt="c logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width: 100%;">
