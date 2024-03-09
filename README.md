@@ -2,10 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=nabiha02&label=Profile+Visits&color=ff69b4&style=plastic)
 
-![nabiha02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabiha02&theme=blueberry&hide_border=true)
+![nabiha02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha02&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)-->
 <img width="400"
 src="https://camo.githubusercontent.com/a03bb9eaa04d9f9a8fd5bf4d7433ca25a3cea975b1eeee8d9767daea04bcdb99/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e61626968613032267468656d653d746f6b796f6e696768742673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565" alt="Nabiha Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=nabiha02&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
+
  <img width="400" src="https://camo.githubusercontent.com/98cc5a28c5a16a14b93832ce7e20751c93508bba97858c993a6b92b3c2f572a9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e61626968613032267468656d653d626c7565626572727926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=nabiha02&theme=tokyonight&hide_border=true" style="max-width: 100%;">
  
  <img width="400" src="https://camo.githubusercontent.com/7f6f2c102a90f9d8c29f44f40b843dee3964cf5dee5c3cfa5ce9dafb895bf172/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e61626968613032267468656d653d746f6b796f6e696768742673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha02&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="max-width: 100%;">
