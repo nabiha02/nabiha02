@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nabiha02&label=Profile+Visits&color=ff69b4&style=plastic)
 
+![nabiha02's Stats](https://github-readme-stats.vercel.app/api?username=nabiha02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)-->
 <img align="center" src="https://camo.githubusercontent.com/f0f0b65b9cafcf85e33de48ae29f0bdad1be3119a69819e68be9c133f5b0c6b1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d627565667926686964655f626f726465723d74727565" alt="Nabiha Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=nabiha02&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
