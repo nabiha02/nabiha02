@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nabiha02&label=Profile+Visits&color=ff69b4&style=plastic)
 
-![nabiha02's Stats](https://github-readme-stats.vercel.app/api?username=nabiha02&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![nabiha02's Stats](https://github-readme-stats.vercel.app/api?username=nabiha02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)-->
 <img width="400"
 src="https://camo.githubusercontent.com/a03bb9eaa04d9f9a8fd5bf4d7433ca25a3cea975b1eeee8d9767daea04bcdb99/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e61626968613032267468656d653d746f6b796f6e696768742673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565" alt="Nabiha Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=nabiha02&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
