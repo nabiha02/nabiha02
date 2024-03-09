@@ -4,7 +4,7 @@
 
 ![nabiha02's Stats](https://github-readme-stats.vercel.app/api?username=nabiha02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![nabiha02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabiha02&theme=tokyonight&hide_border=true)
-
+<img class="output" src="https://github-readme-stats.vercel.app/api?username=nabiha02&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)-->
 <!--<img width="400"
