@@ -15,9 +15,11 @@ src="https://camo.githubusercontent.com/a03bb9eaa04d9f9a8fd5bf4d7433ca25a3cea975
 🔭 Have knowledge on;
 
 [![My Skills](https://skillicons.dev/icons?i=c,java&theme=light)](https://skillicons.dev)
+
 🌱 Currently learning;
 
-[![My Skills](https://skillicons.dev/icons?i=c++&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
+
 📫 How to reach me;
 
 
