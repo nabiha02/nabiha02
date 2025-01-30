@@ -25,6 +25,7 @@ src="https://camo.githubusercontent.com/a03bb9eaa04d9f9a8fd5bf4d7433ca25a3cea975
 
 <a href="https://www.facebook.com/profile.php?id=100089780863300" rel="nofollow"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/nabiha-nahin-17921217a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" rel="nofollow"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;"></a>
+<a href="https://t.me/nahin02" rel="nofollow"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" style="max-width: 100%;"></a>
 
 
 <!--
