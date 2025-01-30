@@ -5,7 +5,7 @@
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=nabiha02)-->
 
- <img width="400" src="https://camo.githubusercontent.com/23d2c28b38d79504a82c2447c0962a67fa0ebcf1c6a55c9564a01e1859a60194/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e61626968613032267468656d653d626c756562657272792673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha02&theme=blueberry&show_icons=true&hide_border=true&layout=compact" style="max-width: 100%;">
+ <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha02&theme=blueberry&show_icons=true&hide_border=true&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha02&theme=blueberry&show_icons=true&hide_border=true&layout=compact" style="max-width: 100%;">
  
 
 🔭 Have knowledge on;
