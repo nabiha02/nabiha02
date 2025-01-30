@@ -14,10 +14,10 @@ src="https://camo.githubusercontent.com/a03bb9eaa04d9f9a8fd5bf4d7433ca25a3cea975
 
 🔭 Have knowledge on;
 
-<img src="https://camo.githubusercontent.com/8639a64068ea0e712beec603e79eb19daf6b3c26cb47c782b0debf2843a8bfa5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" height="40" alt="c logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width: 100%;">
+[![My Skills](https://skillicons.dev/icons?i=c,java&theme=light)](https://skillicons.dev)
 🌱 Currently learning;
 
-<img src="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" height="50" alt="java logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
+[![My Skills](https://skillicons.dev/icons?i=c++&theme=light)](https://skillicons.dev)
 📫 How to reach me;
 
 
