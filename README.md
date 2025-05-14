@@ -16,6 +16,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
 
+Gathering on;
+<a href="https://www.codechef.com/users/nabihachaiti02" rel="nofollow"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codechef/default.svg" width="52" height="40" alt="facebook logo" style="max-width: 100%;"></a>
+
 📫 How to reach me;
 
 
