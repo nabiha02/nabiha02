@@ -17,9 +17,9 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
 
 Gathering on;
-<a href="https://www.codechef.com/users/nabihachaiti02" rel="nofollow"><img src="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 50 50">
-<path d="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000"></path>
-</svg>" width="52" height="40" alt="CodeChef Logo" style="max-width: 100%;"></a>
+
+[![CodeChef](https://cdn.codechef.com/images/cc-logo.svg)](https://www.codechef.com/users/nabihachaiti02)
+
 
 📫 How to reach me;
 
