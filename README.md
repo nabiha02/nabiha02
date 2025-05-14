@@ -21,7 +21,7 @@ Gathering on;
 <a href="https://www.codechef.com/users/nabihachaiti02">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" width="100" /> </a>
    <a href="https://www.hackerrank.com/nabihachaiti02">
-    <img src="https://logowik.com/hackerrank-1-logo-vector-66963.html" width="120" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="120" />
 </a>
 
 
