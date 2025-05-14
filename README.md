@@ -19,7 +19,7 @@
 Gathering on;
 
 <a href="https://www.codechef.com/users/nabihachaiti02">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CodeChef_Logo.svg" width="80" /> </a>
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="80" /> </a>
    <a href="https://www.hackerrank.com/nabihachaiti02">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="80" />
 </a>
