@@ -18,7 +18,9 @@
 
 Gathering on;
 
-[![CodeChef](https://cdn.codechef.com/images/cc-logo.svg)](https://www.codechef.com/users/nabihachaiti02)
+<a href="https://www.codechef.com/users/nabihachaiti02">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="120" /> </a>
+
 
 
 📫 How to reach me;
