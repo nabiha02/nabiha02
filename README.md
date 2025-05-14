@@ -19,7 +19,7 @@
 Gathering on;
 
 <a href="https://www.codechef.com/users/nabihachaiti02">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="120" /> </a>
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="100" /> </a>
 
 
 
