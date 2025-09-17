@@ -14,7 +14,9 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
 
 🌱 Currently learning;
+
 [![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=sql&theme=light)](https://skillicons.dev)
 
 
