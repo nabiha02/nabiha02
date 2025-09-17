@@ -16,7 +16,7 @@
 🌱 Currently learning;
 
 [![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
 
 Gathering on;
