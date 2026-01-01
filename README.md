@@ -12,11 +12,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,java&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
-
-🌱 Currently learning;
-
 [![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
+🌱 Currently learning;
+
+
 
 
 Gathering on;
