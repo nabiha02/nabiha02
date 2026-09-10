@@ -14,6 +14,9 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev)
 
 🌱 Currently learning;
 
